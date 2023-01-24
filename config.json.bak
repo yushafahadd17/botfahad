@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6287843253876@s.whatsapp.net","6287843253876@s.whatsapp.net"],
+    "ownerName": "Yüshā Fähādོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/oh_pahadd",
+    "botName": "YF-Mdོ ",
+    "footer": "Yüshā Fähād",
+    "sessionName": "session",
+    "pathimg": "./media/YF.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
